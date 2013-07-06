@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SeekerProject</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>lc.h</name>
+			<type>1</type>
+			<location>L:/home/harpra/sketchbook/seekerfull/lc.h</location>
+		</link>
+		<link>
+			<name>main</name>
+			<type>1</type>
+			<location>L:/home/harpra/sketchbook/seekerfull/seekerfull.ino</location>
+		</link>
+		<link>
+			<name>pt.h</name>
+			<type>1</type>
+			<location>L:/home/harpra/sketchbook/seekerfull/pt.h</location>
+		</link>
+	</linkedResources>
+</projectDescription>
